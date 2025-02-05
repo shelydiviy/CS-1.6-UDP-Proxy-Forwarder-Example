@@ -125,7 +125,8 @@ Avrora-CSDM 2025 Night Tactics
 Avrora-CSDM 2025 Hardcore Showdown
 Avrora-CSDM 2025 Tactical Fury
 Avrora-CSDM 2025 Elite Warriors
-Avrora-CSDM 2025 Total WarfareAvrora-Arena 2025 Battle Elite  
+Avrora-CSDM 2025 Total Warfare
+Avrora-Arena 2025 Battle Elite  
 Avrora-Arena 2025 Chaos Arena  
 Avrora-Arena 2025 Chaos Ops  
 Avrora-Arena 2025 Deathmatch Arena  
