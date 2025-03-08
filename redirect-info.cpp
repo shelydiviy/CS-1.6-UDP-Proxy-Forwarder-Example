@@ -74,7 +74,7 @@ struct clientinfo
         fwdip = inet_addr(ips[currip++]);
         fwdport = port[currport++];
         
-        fwdserver.sin_addr.s_addr = inet_addr("193.218.204.202");
+        fwdserver.sin_addr.s_addr = inet_addr("89.223.121.95");
         fwdserver.sin_port = htons(27015);
 
         tv.tv_sec = 5.0;    // timeout for recvfrom from ThreadForClient function
@@ -114,7 +114,7 @@ struct clientinfo
                 char start_buff[]  = "\xff\xff\xff\xff\x6d\x30\x2E\x30\x2E\x30\x2E\x30\x3A\x32\x37\x30\x31\x35"; //xFFxFFxFFxFFm0.0.0.0:27015
                 char static_buff[] = "\x63\x73\x74\x72\x69\x6B\x65\x00\x50\x61\x69\x6E\x74\x62\x61\x6C\x6C\x20\x4D\x6F\x64\x00\x1F\x20\x2F\x64\x6C\x00\x00\x01\x00";
                 char sep[]         = {"\x00"};
-                int static_buff_l  = 31;
+                int static_buff_l  = 24;
 
                 if(hostname_id > hostname_len)
                 {
